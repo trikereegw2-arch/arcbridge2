@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20260131-063436-matt",
+    "title": "Silfaith",
+    "commanders": [
+      "Silfaith"
+    ],
+    "dateStart": "2026-01-31T14:34:36.000Z",
+    "dateEnd": "2026-01-31T15:36:53.000Z",
+    "dateLabel": "1/31/2026, 6:34:36 AM - 1/31/2026, 7:36:53 AM",
+    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260131-063436-matt",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 10,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 41,
+      "avgEnemySize": 37
+    }
+  }
+]
