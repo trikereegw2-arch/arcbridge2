@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260201-044746-7iw5",
+    "title": "Kingofmesmers",
+    "commanders": [
+      "Kingofmesmers"
+    ],
+    "dateStart": "2026-02-01T12:47:46.000Z",
+    "dateEnd": "2026-02-01T14:51:19.000Z",
+    "dateLabel": "2/1/2026, 4:47:46 AM - 2/1/2026, 6:51:19 AM",
+    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260201-044746-7iw5",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 21,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 48
+    }
+  },
+  {
     "id": "20260131-063436-matt",
     "title": "Silfaith",
     "commanders": [
