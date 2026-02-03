@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260202-060906-7zym",
+    "title": "Kryskàa",
+    "commanders": [
+      "Kryskàa"
+    ],
+    "dateStart": "2026-02-02T14:09:06.000Z",
+    "dateEnd": "2026-02-02T15:11:50.000Z",
+    "dateLabel": "2/2/2026, 6:09:06 AM - 2/2/2026, 7:11:50 AM",
+    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260202-060906-7zym",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 11,
+          "color": "#ffffff"
+        },
+        {
+          "name": "World vs World - Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 50
+    }
+  },
+  {
     "id": "20260201-044746-7iw5",
     "title": "Kingofmesmers",
     "commanders": [
