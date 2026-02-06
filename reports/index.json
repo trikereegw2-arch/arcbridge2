@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260206-054428-tkb0",
+    "title": "Kingofmesmers",
+    "commanders": [
+      "Kingofmesmers"
+    ],
+    "dateStart": "2026-02-06T13:44:28.000Z",
+    "dateEnd": "2026-02-06T14:45:34.000Z",
+    "dateLabel": "2/6/2026, 5:44:28 AM - 2/6/2026, 6:45:34 AM",
+    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260206-054428-tkb0",
+    "summary": {
+      "borderlandsPct": 0.6,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 8,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 36
+    }
+  },
+  {
     "id": "20260204-053739-kh8t",
     "title": "Kryskàa",
     "commanders": [
