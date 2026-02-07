@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260207-050536-3988",
+    "title": "Kingofmesmers",
+    "commanders": [
+      "Kingofmesmers"
+    ],
+    "dateStart": "2026-02-07T13:05:36.000Z",
+    "dateEnd": "2026-02-07T14:46:14.000Z",
+    "dateLabel": "2/7/2026, 5:05:36 AM - 2/7/2026, 6:46:14 AM",
+    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260207-050536-3988",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Obsidian Sanctum",
+          "value": 26,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 19
+    }
+  },
+  {
     "id": "20260206-054428-tkb0",
     "title": "Kingofmesmers",
     "commanders": [
