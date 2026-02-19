@@ -1,5 +1,20 @@
 [
   {
+    "id": "20260219-075141-ujvs",
+    "title": "Unknown Commander",
+    "commanders": [],
+    "dateStart": "2026-02-19T15:51:41.082Z",
+    "dateEnd": "2026-02-19T15:51:41.082Z",
+    "dateLabel": "2/19/2026, 7:51:41 AM - 2/19/2026, 7:51:41 AM",
+    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260219-075141-ujvs",
+    "summary": {
+      "borderlandsPct": null,
+      "mapSlices": [],
+      "avgSquadSize": 0,
+      "avgEnemySize": 0
+    }
+  },
+  {
     "id": "20260211-050704-3gd6",
     "title": "Kingofcharrs",
     "commanders": [
