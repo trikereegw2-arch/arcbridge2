@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260219-053955-wkga",
+    "title": "Kingofcharrs",
+    "commanders": [
+      "Kingofcharrs"
+    ],
+    "dateStart": "2026-02-19T13:39:55.000Z",
+    "dateEnd": "2026-02-19T15:25:00.000Z",
+    "dateLabel": "2/19/2026, 5:39:55 AM - 2/19/2026, 7:25:00 AM",
+    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260219-053955-wkga",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 30,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 40,
+      "avgEnemySize": 49
+    }
+  },
+  {
     "id": "20260219-060100-nhbd",
     "title": "Kingofcharrs",
     "commanders": [
