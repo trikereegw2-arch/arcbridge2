@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260224-045324-0kgl",
+    "title": "Kingofcharrs",
+    "commanders": [
+      "Kingofcharrs"
+    ],
+    "dateStart": "2026-02-24T12:53:24.000Z",
+    "dateEnd": "2026-02-24T14:50:05.000Z",
+    "dateLabel": "2/24/2026, 4:53:24 AM - 2/24/2026, 6:50:05 AM",
+    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260224-045324-0kgl",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 29,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 60
+    }
+  },
+  {
     "id": "20260222-190256-ah2y",
     "title": "Leo Stole My Heart",
     "commanders": [
