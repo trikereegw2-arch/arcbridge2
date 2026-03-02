@@ -1,238 +1,268 @@
-[
-  {
-    "id": "20260301-045453-9zz7",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "dateStart": "2026-03-01T12:54:53.000Z",
-    "dateEnd": "2026-03-01T15:02:51.000Z",
-    "dateLabel": "3/1/2026, 4:54:53 AM - 3/1/2026, 7:02:51 AM",
-    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260301-045453-9zz7",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 31,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 17,
-      "avgEnemySize": 38
-    }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Amethyst",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260228-050835-028g",
-    "title": "Kingofcharrs, Kingofmesmers",
-    "commanders": [
-      "Kingofcharrs",
-      "Kingofmesmers"
-    ],
-    "dateStart": "2026-02-28T13:08:35.000Z",
-    "dateEnd": "2026-02-28T15:14:37.000Z",
-    "dateLabel": "2/28/2026, 5:08:35 AM - 2/28/2026, 7:14:37 AM",
-    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260228-050835-028g",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Obsidian Sanctum",
-          "value": 37,
-          "color": "#64748b"
-        }
+  "entries": [
+    {
+      "id": "20260302-053539-yy3s",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 20
-    }
-  },
-  {
-    "id": "20260224-045324-0kgl",
-    "title": "Kingofcharrs",
-    "commanders": [
-      "Kingofcharrs"
-    ],
-    "dateStart": "2026-02-24T12:53:24.000Z",
-    "dateEnd": "2026-02-24T14:50:05.000Z",
-    "dateLabel": "2/24/2026, 4:53:24 AM - 2/24/2026, 6:50:05 AM",
-    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260224-045324-0kgl",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 29,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-02T13:35:39.000Z",
+      "dateEnd": "2026-03-02T15:01:04.000Z",
+      "dateLabel": "3/2/2026, 5:35:39 AM - 3/2/2026, 7:01:04 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260302-053539-yy3s",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 55
+      }
+    },
+    {
+      "id": "20260301-045453-9zz7",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 60
-    }
-  },
-  {
-    "id": "20260222-190256-ah2y",
-    "title": "Leo Stole My Heart",
-    "commanders": [
-      "Leo Stole My Heart"
-    ],
-    "dateStart": "2026-02-23T03:02:56.000Z",
-    "dateEnd": "2026-02-23T03:37:58.000Z",
-    "dateLabel": "2/22/2026, 7:02:56 PM - 2/22/2026, 7:37:58 PM",
-    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260222-190256-ah2y",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 10,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-03-01T12:54:53.000Z",
+      "dateEnd": "2026-03-01T15:02:51.000Z",
+      "dateLabel": "3/1/2026, 4:54:53 AM - 3/1/2026, 7:02:51 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260301-045453-9zz7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260228-050835-028g",
+      "title": "Kingofcharrs, Kingofmesmers",
+      "commanders": [
+        "Kingofcharrs",
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260219-053955-wkga",
-    "title": "Kingofcharrs",
-    "commanders": [
-      "Kingofcharrs"
-    ],
-    "dateStart": "2026-02-19T13:39:55.000Z",
-    "dateEnd": "2026-02-19T15:25:00.000Z",
-    "dateLabel": "2/19/2026, 5:39:55 AM - 2/19/2026, 7:25:00 AM",
-    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260219-053955-wkga",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 30,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-28T13:08:35.000Z",
+      "dateEnd": "2026-02-28T15:14:37.000Z",
+      "dateLabel": "2/28/2026, 5:08:35 AM - 2/28/2026, 7:14:37 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260228-050835-028g",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 37,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
+      "id": "20260224-045324-0kgl",
+      "title": "Kingofcharrs",
+      "commanders": [
+        "Kingofcharrs"
       ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260211-050704-3gd6",
-    "title": "Kingofcharrs",
-    "commanders": [
-      "Kingofcharrs"
-    ],
-    "dateStart": "2026-02-11T13:07:04.000Z",
-    "dateEnd": "2026-02-11T14:47:03.000Z",
-    "dateLabel": "2/11/2026, 5:07:04 AM - 2/11/2026, 6:47:03 AM",
-    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260211-050704-3gd6",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 19,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-24T12:53:24.000Z",
+      "dateEnd": "2026-02-24T14:50:05.000Z",
+      "dateLabel": "2/24/2026, 4:53:24 AM - 2/24/2026, 6:50:05 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260224-045324-0kgl",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 60
+      }
+    },
+    {
+      "id": "20260222-190256-ah2y",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 41
-    }
-  },
-  {
-    "id": "20260207-065022-cadt",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "dateStart": "2026-02-07T14:50:22.000Z",
-    "dateEnd": "2026-02-07T15:38:34.000Z",
-    "dateLabel": "2/7/2026, 6:50:22 AM - 2/7/2026, 7:38:34 AM",
-    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260207-065022-cadt",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-23T03:02:56.000Z",
+      "dateEnd": "2026-02-23T03:37:58.000Z",
+      "dateLabel": "2/22/2026, 7:02:56 PM - 2/22/2026, 7:37:58 PM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260222-190256-ah2y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "20260219-053955-wkga",
+      "title": "Kingofcharrs",
+      "commanders": [
+        "Kingofcharrs"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 50
-    }
-  },
-  {
-    "id": "20260207-050536-3988",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "dateStart": "2026-02-07T13:05:36.000Z",
-    "dateEnd": "2026-02-07T14:46:14.000Z",
-    "dateLabel": "2/7/2026, 5:05:36 AM - 2/7/2026, 6:46:14 AM",
-    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260207-050536-3988",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Obsidian Sanctum",
-          "value": 26,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-19T13:39:55.000Z",
+      "dateEnd": "2026-02-19T15:25:00.000Z",
+      "dateLabel": "2/19/2026, 5:39:55 AM - 2/19/2026, 7:25:00 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260219-053955-wkga",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260211-050704-3gd6",
+      "title": "Kingofcharrs",
+      "commanders": [
+        "Kingofcharrs"
       ],
-      "avgSquadSize": 19,
-      "avgEnemySize": 19
-    }
-  },
-  {
-    "id": "20260206-054428-tkb0",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "dateStart": "2026-02-06T13:44:28.000Z",
-    "dateEnd": "2026-02-06T14:45:34.000Z",
-    "dateLabel": "2/6/2026, 5:44:28 AM - 2/6/2026, 6:45:34 AM",
-    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260206-054428-tkb0",
-    "summary": {
-      "borderlandsPct": 0.6,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 12,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 8,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-11T13:07:04.000Z",
+      "dateEnd": "2026-02-11T14:47:03.000Z",
+      "dateLabel": "2/11/2026, 5:07:04 AM - 2/11/2026, 6:47:03 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260211-050704-3gd6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 41
+      }
+    },
+    {
+      "id": "20260207-065022-cadt",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260201-044746-7iw5",
-    "title": "Kingofmesmers",
-    "commanders": [
-      "Kingofmesmers"
-    ],
-    "dateStart": "2026-02-01T12:47:46.000Z",
-    "dateEnd": "2026-02-01T14:51:19.000Z",
-    "dateLabel": "2/1/2026, 4:47:46 AM - 2/1/2026, 6:51:19 AM",
-    "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260201-044746-7iw5",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 21,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-07T14:50:22.000Z",
+      "dateEnd": "2026-02-07T15:38:34.000Z",
+      "dateLabel": "2/7/2026, 6:50:22 AM - 2/7/2026, 7:38:34 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260207-065022-cadt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 50
+      }
+    },
+    {
+      "id": "20260207-050536-3988",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
       ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 48
+      "dateStart": "2026-02-07T13:05:36.000Z",
+      "dateEnd": "2026-02-07T14:46:14.000Z",
+      "dateLabel": "2/7/2026, 5:05:36 AM - 2/7/2026, 6:46:14 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260207-050536-3988",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 26,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 19
+      }
+    },
+    {
+      "id": "20260206-054428-tkb0",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-02-06T13:44:28.000Z",
+      "dateEnd": "2026-02-06T14:45:34.000Z",
+      "dateLabel": "2/6/2026, 5:44:28 AM - 2/6/2026, 6:45:34 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260206-054428-tkb0",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260201-044746-7iw5",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-02-01T12:47:46.000Z",
+      "dateEnd": "2026-02-01T14:51:19.000Z",
+      "dateLabel": "2/1/2026, 4:47:46 AM - 2/1/2026, 6:51:19 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260201-044746-7iw5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 48
+      }
     }
-  }
-]
+  ]
+}
