@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260307-045932-pb3d",
+      "title": "Aqukinnmaster",
+      "commanders": [
+        "Aqukinnmaster"
+      ],
+      "dateStart": "2026-03-07T12:59:32.000Z",
+      "dateEnd": "2026-03-07T14:47:43.000Z",
+      "dateLabel": "3/7/2026, 4:59:32 AM - 3/7/2026, 6:47:43 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260307-045932-pb3d",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260305-051052-tpge",
       "title": "Kingofcharrs",
       "commanders": [
