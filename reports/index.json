@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260314-060013-ksbc",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-03-14T13:00:13.000Z",
+      "dateEnd": "2026-03-14T14:42:31.000Z",
+      "dateLabel": "3/14/2026, 6:00:13 AM - 3/14/2026, 7:42:31 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260314-060013-ksbc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260307-045932-pb3d",
       "title": "Aqukinnmaster",
       "commanders": [
