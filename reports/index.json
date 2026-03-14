@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260314-060013-ah14",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-03-14T13:00:13.000Z",
+      "dateEnd": "2026-03-14T14:49:47.000Z",
+      "dateLabel": "3/14/2026, 6:00:13 AM - 3/14/2026, 7:49:47 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260314-060013-ah14",
+      "summary": {
+        "borderlandsPct": 0.043478260869565216,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260314-060013-ksbc",
       "title": "Kingofmesmers",
       "commanders": [
