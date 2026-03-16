@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260316-061117-eosu",
+      "title": "Kingofcharrs, Ur New Step Dad",
+      "commanders": [
+        "Kingofcharrs",
+        "Ur New Step Dad"
+      ],
+      "dateStart": "2026-03-16T13:11:17.000Z",
+      "dateEnd": "2026-03-16T14:24:08.000Z",
+      "dateLabel": "3/16/2026, 6:11:17 AM - 3/16/2026, 7:24:08 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260316-061117-eosu",
+      "summary": {
+        "borderlandsPct": 0.3125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260314-060013-c13f",
       "title": "Kingofmesmers",
       "commanders": [
