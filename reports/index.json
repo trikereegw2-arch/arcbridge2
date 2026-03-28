@@ -1,10 +1,31 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Amethyst",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260328-060918-ioti",
+      "title": "Kingofcharrs, Kingofmesmers",
+      "commanders": [
+        "Kingofcharrs",
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-03-28T13:09:18.000Z",
+      "dateEnd": "2026-03-28T15:04:14.000Z",
+      "dateLabel": "3/28/2026, 6:09:18 AM - 3/28/2026, 8:04:14 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260328-060918-ioti",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 36,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 25
+      }
+    },
     {
       "id": "20260323-062016-jdhi",
       "title": "Kingofcharrs, Kingofmesmers",
