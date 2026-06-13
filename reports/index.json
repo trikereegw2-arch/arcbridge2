@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-060739-30k5",
+      "title": "T B E J A Y C E",
+      "commanders": [
+        "T B E J A Y C E"
+      ],
+      "dateStart": "2026-06-13T13:07:39.000Z",
+      "dateEnd": "2026-06-13T14:19:40.000Z",
+      "dateLabel": "6/13/2026, 6:07:39 AM - 6/13/2026, 7:19:40 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260613-060739-30k5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260528-062350-aobe",
       "title": "Bigpush, Kingofmesmers",
       "commanders": [
