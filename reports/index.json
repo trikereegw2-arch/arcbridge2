@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-064145-mohk",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "dateStart": "2026-07-01T13:41:45.000Z",
+      "dateEnd": "2026-07-01T14:22:52.000Z",
+      "dateLabel": "7/1/2026, 6:41:45 AM - 7/1/2026, 7:22:52 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260701-064145-mohk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260626-061712-rupu",
       "title": "Kingofcharrs",
       "commanders": [
