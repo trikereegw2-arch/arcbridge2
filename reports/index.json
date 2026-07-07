@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260706-055555-s3qv",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-06T12:55:55.000Z",
+      "dateEnd": "2026-07-06T13:48:28.000Z",
+      "dateLabel": "7/6/2026, 5:55:55 AM - 7/6/2026, 6:48:28 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260706-055555-s3qv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260701-064145-xb2x",
       "title": "Four K Ping Sil",
       "commanders": [
