@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260710-061732-t7qh",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-10T13:17:32.000Z",
+      "dateEnd": "2026-07-10T14:32:40.000Z",
+      "dateLabel": "7/10/2026, 6:17:32 AM - 7/10/2026, 7:32:40 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260710-061732-t7qh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260710-061732-esyy",
       "title": "Kingofmesmers",
       "commanders": [
