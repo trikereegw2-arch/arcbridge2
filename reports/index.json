@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-061234-cu5a",
+      "title": "Kingofmesmers, Trembling",
+      "commanders": [
+        "Kingofmesmers",
+        "Trembling"
+      ],
+      "dateStart": "2026-07-25T13:12:34.000Z",
+      "dateEnd": "2026-07-25T14:14:25.000Z",
+      "dateLabel": "7/25/2026, 6:12:34 AM - 7/25/2026, 7:14:25 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260725-061234-cu5a",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260711-064119-v8x0",
       "title": "Kingofmesmers",
       "commanders": [
