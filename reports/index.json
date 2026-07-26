@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-051036-933g",
+      "title": "Dougal Chaos Brit, Kingofmesmers",
+      "commanders": [
+        "Dougal Chaos Brit",
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-26T12:10:36.000Z",
+      "dateEnd": "2026-07-26T13:52:35.000Z",
+      "dateLabel": "7/26/2026, 5:10:36 AM - 7/26/2026, 6:52:35 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260726-051036-933g",
+      "summary": {
+        "borderlandsPct": 0.07142857142857142,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260725-061234-cu5a",
       "title": "Kingofmesmers, Trembling",
       "commanders": [
