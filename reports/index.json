@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-055029-fpz1",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-26T12:50:29.000Z",
+      "dateEnd": "2026-07-26T13:52:35.000Z",
+      "dateLabel": "7/26/2026, 5:50:29 AM - 7/26/2026, 6:52:35 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260726-055029-fpz1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260726-051036-933g",
       "title": "Dougal Chaos Brit, Kingofmesmers",
       "commanders": [
