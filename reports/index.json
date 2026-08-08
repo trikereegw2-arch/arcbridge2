@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-062803-txus",
+      "title": "Summit Unleashed",
+      "commanders": [
+        "Summit Unleashed"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-08T13:28:03.000Z",
+      "dateEnd": "2026-08-08T14:22:35.000Z",
+      "dateLabel": "8/8/2026, 6:28:03 AM - 8/8/2026, 7:22:35 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260808-062803-txus",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 65
+      }
+    },
+    {
       "id": "20260806-063303-xlsg",
       "title": "Kingofmesmers",
       "commanders": [
