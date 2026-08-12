@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-064249-6u0y",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-08-12T13:42:49.000Z",
+      "dateEnd": "2026-08-12T14:23:42.000Z",
+      "dateLabel": "8/12/2026, 6:42:49 AM - 8/12/2026, 7:23:42 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260812-064249-6u0y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260808-062803-cmzm",
       "title": "Summit Unleashed",
       "commanders": [
