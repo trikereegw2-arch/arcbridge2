@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-072004-hn1t",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-08-14T14:20:04.000Z",
+      "dateEnd": "2026-08-14T15:04:00.000Z",
+      "dateLabel": "8/14/2026, 7:20:04 AM - 8/14/2026, 8:04:00 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260814-072004-hn1t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 28,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260812-064249-6u0y",
       "title": "Four K Ping Sil",
       "commanders": [
