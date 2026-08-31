@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-063219-tvs4",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-08-31T13:32:19.000Z",
+      "dateEnd": "2026-08-31T14:17:36.560Z",
+      "dateLabel": "8/31/2026, 6:32:19 AM - 8/31/2026, 7:17:36 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260831-063219-tvs4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260830-070107-f5hj",
       "title": "Kingofmesmers",
       "commanders": [
