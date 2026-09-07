@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-063507-qzpw",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-06T13:35:07.000Z",
+      "dateEnd": "2026-09-06T14:41:09.424Z",
+      "dateLabel": "9/6/2026, 6:35:07 AM - 9/6/2026, 7:41:09 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260906-063507-qzpw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260831-063219-tvs4",
       "title": "Kingofmesmers",
       "commanders": [
