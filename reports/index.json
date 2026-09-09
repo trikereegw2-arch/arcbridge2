@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-063701-b2xw",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-09T13:37:01.000Z",
+      "dateEnd": "2026-09-09T14:30:22.579Z",
+      "dateLabel": "9/9/2026, 6:37:01 AM - 9/9/2026, 7:30:22 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260909-063701-b2xw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 23,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260906-063507-qzpw",
       "title": "Four K Ping Sil",
       "commanders": [
