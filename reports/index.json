@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260911-064939-hskt",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-11T13:49:39.000Z",
+      "dateEnd": "2026-09-11T14:47:04.816Z",
+      "dateLabel": "9/11/2026, 6:49:39 AM - 9/11/2026, 7:47:04 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260911-064939-hskt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260909-063701-b2xw",
       "title": "Kingofmesmers",
       "commanders": [
