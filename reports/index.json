@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260916-061405-y92p",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-16T13:14:05.000Z",
+      "dateEnd": "2026-09-16T13:28:23.391Z",
+      "dateLabel": "9/16/2026, 6:14:05 AM - 9/16/2026, 6:28:23 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260916-061405-y92p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260911-064939-hskt",
       "title": "Kingofmesmers",
       "commanders": [
