@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260923-061421-iqym",
+      "title": "Follow This Tag",
+      "commanders": [
+        "Follow This Tag"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-23T13:14:21.000Z",
+      "dateEnd": "2026-09-23T14:02:05.294Z",
+      "dateLabel": "9/23/2026, 6:14:21 AM - 9/23/2026, 7:02:05 AM",
+      "url": "https://trikereegw2-arch.github.io/arcbridge2/?report=20260923-061421-iqym",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260923-061421-28s2",
       "title": "Follow This Tag",
       "commanders": [
